@@ -56,7 +56,7 @@ Las ventas están muy balanceadas:
 El género no es un factor determinante en el comportamiento de compra.
 
 ### Proveedores
-- Cuatro proveedores principales con ingresos entre 132 M y 136 M.  
+- Los Cuatro proveedores se mantienen con ingresos estables entre 132 M y 136 M.  
 - Supplier A es el líder (136 M).  
 Bajo riesgo de dependencia del supply chain.
 
@@ -67,8 +67,8 @@ Esto facilita la planificación y reduce inventario sobrante.
 ### Tendencias Temporales
 - **2023** fue el año más rentable.  
 - **2024** inicia con una ligera caída en profit frente a 2023.  
-- Meses fuertes: **junio, julio y septiembre**.  
-- Meses débiles: **enero y marzo**.
+- Meses fuertes: **marzo, mayo y julio**.  
+- Meses débiles: **frebrero, junio y septiembre**.
 
 ## Conclusiones & Recomendaciones
 1. Negocio estable y diversificado (categorías, proveedores, tallas).  
